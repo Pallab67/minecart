@@ -1,7 +1,7 @@
 # Minecart
 Java Full Stack E-commerce Website
 
-#Requiredment
+# Requiredment
 Tomcat- 10.0
 JDK- 17.0.5
 Eclipes- 2022-09
